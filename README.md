@@ -19,4 +19,24 @@
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+## Customer Net Sales Performance Report 
+
+![alter text](https://user-images.githubusercontent.com/114329084/272339116-2762be69-b4e5-453b-89e8-256ea6f4dd7c.jpg)
+
+## Market performance Vs Target
+
+![Alter Text](https://user-images.githubusercontent.com/114329084/272339226-582c70ae-d71e-4bb9-bb61-9451b41e88f7.jpg)
+## P&L Statements by Markets
+
+![Alter text](https://user-images.githubusercontent.com/114329084/272339133-a9d6abc6-7b8a-489a-8a82-176df4325933.jpg)
+## P&L Statements by Quarters
+
+![Alter text](https://user-images.githubusercontent.com/114329084/272339173-b88ec4ec-fd9a-4abc-b8b6-8b1cb0d0a966.jpg)
+## Project Priority Matrix
+
+![Alter text](https://user-images.githubusercontent.com/114329084/272341158-9539ad86-066d-4283-b2e9-06a502f5a962.jpg)
+## Customer Discount Approval
+
+![Alter text](https://user-images.githubusercontent.com/114329084/272341179-bb2345aa-e469-46fe-97d3-93b5a0400d26.jpg)
  
